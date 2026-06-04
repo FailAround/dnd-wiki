@@ -52,12 +52,12 @@ Die drei Großmächte Moriels befinden sich aktuell nicht im offenen Krieg, unte
 - **Gesellschaft (Fokus Zwerge & Tieflinge):** Eine subterrane Industrie-Gesellschaft. Das Leben spielt sich in klaustrophobischen Tunnelnetzen, umgeben von geothermischen Schloten und gigantischen mechanischen Tresortoren ab. Das Konsortium nutzt uralte, gefährliche Magiequellen tief im Gestein für alchemistische Experimente und gnadenlosen Profit.
     
 
-#### Der Kessel (Das Zentrum)
+#### Zenthris (Das Zentrum)
 
-Exakt im geografischen Mittelpunkt Moriels, wo das Niemandsland der drei Reiche aufeinanderprallt, liegt "Der Kessel" (auch bekannt als die Freistadt).
+Exakt im geografischen Mittelpunkt Moriels, wo das Niemandsland der drei Reiche aufeinanderprallt, liegt Zenthris (auch bekannt als die Freistadt).
 
 - **Status:** Eine massive, neutrale Knotenpunkt-Metropole und der einzige Ort auf Moriel, an dem Angehörige aller Reiche und Spezies in großen Massen aufeinandertreffen.
     
-- **Atmosphäre:** Der Kessel ist eine extrem raue, gefährliche und von Opportunismus geprägte Stadt. Es gibt keine königliche Garde, sondern ein wackliges Gleichgewicht aus Söldnerkompanien und Syndikaten, die das Gesetz auf den Straßen diktieren.
+- **Atmosphäre:** Zenthril ist eine extrem raue, gefährliche und von Opportunismus geprägte Stadt. Es gibt keine königliche Garde, sondern ein wackliges Gleichgewicht aus Söldnerkompanien und Syndikaten, die das Gesetz auf den Straßen diktieren.
     
 - **Wirtschaft:** Die Stadt ist das absolute Handelszentrum des Kontinents, doch der Warenfluss in die Gebiete der drei Großmächte wird strengstens kontrolliert, besteuert und überwacht. Wer ohne die Siegel der zentralen Gilden Waffen, magische Artefakte oder seltene Ressourcen über die Grenzen Vanes, Khurs oder Karsts bringen will, ist auf extrem gefährliche Schmuggelrouten angewiesen.
