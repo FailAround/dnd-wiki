@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2026-campaign/world/moriel/moriel/","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/2026-campaign/world/moriel/moriel/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 ### Kontinent-Übersicht: Moriel
