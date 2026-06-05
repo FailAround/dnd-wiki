@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/2026-campaign/world/moriel/das-karst-konsortium/das-karst-konsortium/","dg-note-properties":{}}
 ---
 
+# Das Karst Konsortium
+
 Im tiefen Südosten Moriels regieren weder Götter noch Könige, sondern Verträge, Gold und das leise Klicken eines Dolches im Dunkeln. Das Karst-Konsortium ist ein skrupelloses Geflecht aus Meister-Schmieden, Erzkartellen und kriminellen Syndikaten. Wer hier Reichtum anhäuft, erkauft sich Macht; wer bankrottgeht, endet als entbehrliche Arbeitskraft in den unerträglich heißen Tiefen der Minen.
 
 #### Geografie und Klima

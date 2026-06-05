@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/2026-campaign/world/moriel/das-protektorat-von-vane/das-protektorat-von-vane/","dg-note-properties":{}}
 ---
 
+# Das Protektorat von Vane
+
 Das Protektorat von Vane herrscht über die westlichen Gebiete Moriels. Es ist ein Reich der absoluten Disziplin, des fanatischen Glaubens und der ständigen Wachsamkeit. In Vane gibt es keinen Raum für Schwäche; die Existenz der Götter ist unbestreitbar, und ihr Wille wird durch die eiserne Hand der theokratischen Militärorden auf Erden durchgesetzt. Wer hier überleben will, beugt sich dem Gesetz des Protektorats oder wird von ihm zerschmettert.
 
 #### Geografie und Klima

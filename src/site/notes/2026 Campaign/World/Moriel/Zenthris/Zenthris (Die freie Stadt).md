@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/2026-campaign/world/moriel/zenthris/zenthris-die-freie-stadt/","dg-note-properties":{}}
 ---
 
-Zenthris ist das absolute geografische und wirtschaftliche Zentrum von Moriel – eine gewaltige, neutrale Freistadt, die genau dort erbaut wurde, wo die ungezähmten Grenzen von Vane, Khur und Karst aufeinanderprallen. Sie ist ein Schmelztiegel der Kulturen, ein Paradies für Opportunisten und der gefährlichste diplomatische Boden des Kontinents. In Zenthris herrschen keine Götter und keine Könige; hier regieren ausschließlich Gold, Handel und die blanke Klinge.
+# Zenthris (Die freie Stadt)
+
+Zenthris ist das absolute geografische und wirtschaftliche Zentrum von Moriel – eine gewaltige, neutrale Freistadt, die genau dort erbaut wurde, wo die ungezähmten Grenzen von Vane, Karst und den Steppen aufeinanderprallen. Sie ist ein Schmelztiegel der Kulturen, ein Paradies für Opportunisten und der gefährlichste diplomatische Boden des Kontinents. In Zenthris herrschen keine Götter und keine Könige; hier regieren ausschließlich Gold, Handel und die blanke Klinge.
 
 #### Geografie und Stadtbild
 
