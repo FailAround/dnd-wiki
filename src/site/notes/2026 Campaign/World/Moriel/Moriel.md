@@ -34,13 +34,13 @@ Die drei Großmächte Moriels befinden sich aktuell nicht im offenen Krieg, unte
 - **Gesellschaft (Fokus Menschen):** Gekennzeichnet durch extreme Disziplin und gotische Vertikal-Architektur. Massive eiserne Stadtmauern schützen die verwinkelten Gassen und prunkvollen Kathedralen. Die militärischen Orden kontrollieren das Leben streng, stets auf der Jagd nach wilder Magie, Häresie und unnatürlichen Bestien, die die Grenzen bedrohen.
     
 
-**2. Die Khur-Hegemonie (Der Nordosten)**
+**2. Die Blutsteppen Clans (Der Nordosten)**
 
 - **Klima & Geografie:** Extrem trocken und heiß. Weitläufige Steppen brechen an gewaltigen, roten Canyons und schroffen Felsplateaus ab.
     
 - **Struktur:** Ein loses, blutiges Netzwerk aus Warlords, nomadischen Stämmen und Kriegerbünden, die durch rituelle Zweikämpfe und Ressourcenkriege um die Vorherrschaft ringen.
     
-- **Gesellschaft (Fokus Goliaths & humanoide Stämme):** Die Khur setzen auf Brutalismus und schiere physische Präsenz. Ihre Architektur in den Canyons ist monolithisch und offen. Respekt verdient man sich durch Stärke im ständigen Kampf gegen die gigantische, mutierte Megafauna der Steppen. Schwäche bedeutet den Untergang.
+- **Gesellschaft (Fokus Goliaths & humanoide Stämme):** Die Blutsteppen Clans setzen auf Brutalismus und schiere physische Präsenz. Ihre Architektur in den Canyons ist monolithisch und offen. Respekt verdient man sich durch Stärke im ständigen Kampf gegen die gigantische, mutierte Megafauna der Steppen. Schwäche bedeutet den Untergang.
     
 
 **3. Das Karst-Konsortium (Der Südosten)**
@@ -60,4 +60,4 @@ Exakt im geografischen Mittelpunkt Moriels, wo das Niemandsland der drei Reiche 
     
 - **Atmosphäre:** Zenthril ist eine extrem raue, gefährliche und von Opportunismus geprägte Stadt. Es gibt keine königliche Garde, sondern ein wackliges Gleichgewicht aus Söldnerkompanien und Syndikaten, die das Gesetz auf den Straßen diktieren.
     
-- **Wirtschaft:** Die Stadt ist das absolute Handelszentrum des Kontinents, doch der Warenfluss in die Gebiete der drei Großmächte wird strengstens kontrolliert, besteuert und überwacht. Wer ohne die Siegel der zentralen Gilden Waffen, magische Artefakte oder seltene Ressourcen über die Grenzen Vanes, Khurs oder Karsts bringen will, ist auf extrem gefährliche Schmuggelrouten angewiesen.
+- **Wirtschaft:** Die Stadt ist das absolute Handelszentrum des Kontinents, doch der Warenfluss in die Gebiete der drei Großmächte wird strengstens kontrolliert, besteuert und überwacht. Wer ohne die Siegel der zentralen Gilden Waffen, magische Artefakte oder seltene Ressourcen über die Grenzen Vanes, Karsts oder in die Steppen bringen will, ist auf extrem gefährliche Schmuggelrouten angewiesen.
