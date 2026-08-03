@@ -27,24 +27,8 @@ todo
 	- Bei Absolutem Dog-Shit ist ein kompletter Reroll möglich
 		- DM Entscheidung
 ## Erlaubte Klassen
-- Standard Klassen
-	- Barbarian
-	- Bard
-	- Cleric
-	- Druid
-	- Fighter
-	- Monk
-	- Paladin
-	- Ranger
-	- Rogue
-	- Sorcerer
-	- Warlock
-	- Wizard
-- Weitere Klassen
-	- Monster Hunter
-	- Pugilist
-	- Illriger
-	- Blood Hunter
+- Grundsätzlich alle
+	- bei nicht Standard Klassen vorher DM fragen
 ## Erlaubte Rassen
 - Keine Rasse mit Fly Speed
 ## Erlaubte Items
