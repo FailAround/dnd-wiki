@@ -7,9 +7,14 @@
 - Charaktere können Sterben
 	- neuer Char für nächste Session
 - Gegner könnten nicht durch Kampf bezwingbar sein
+- es gibt Crits bei allen Würfen
 - Rule of Cool
 - DM entscheidet Regel Auslegung
 
+## 100 Fragen
+- Bei jeder Long Rest wird ein D100 gewürfelt
+- Die Helden lernen sich besser kennen
+- Antwort muss nicht 100% wahr beantwortet werden, sondern so wie der Chat es den anderen Helden sagen würde
 ## Safe Haven
 todo
 
@@ -47,6 +52,8 @@ todo
 - Keine Schusswaffen
 
 # Kampf
+## Crits
+- bei kritischen Erfolgen und Fehlschlägen wird auf eine 100er Tabelle gewürfelt
 ## Charakter Down (0 HP)
 - Death Saving Throws werden beim DM gewürfelt
 - 1 Level Exhaustion
@@ -60,3 +67,7 @@ todo
 - Neuer Charakter ist **neu**
 	- Andere Klasse
 	- Andere Rasse
+### Heroic Turn
+- Direkt nach Charakter Tod
+- Sofort alle Spell Slots, Class Features und Uses von Magic Items zurück
+- eine finale Runde für ein heldenhaftes abtreten
