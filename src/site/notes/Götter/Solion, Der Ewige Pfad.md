@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/goetter/solion-der-ewige-pfad/","dg-note-properties":{}}
 ---
 
+# Solion, Der Ewige Pfad
 **Gesinnung:** Jenseits des Rasters (Transzendent / Kosmisch Neutral)
 **Prinzipien:** Zeit, Schicksal, die Sonne (als ewiger Taktgeber)
 **Göttliches Symbol:** Ein goldener Ring, in dem sich eine feine Sanduhr dreht, oder eine lückenlose Kette aus ineinandergreifenden Zahnrädern, die kein Ende hat.

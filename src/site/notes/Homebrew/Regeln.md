@@ -4,7 +4,7 @@
 
 # Allgemein
 - DM cheatet nicht, um Spieler zu "retten"
-- Charaktere können Sterben
+- [[World/Umbra/Falkenwall/Charaktere\|Charaktere]] können Sterben
 	- neuer Char für nächste Session
 - Gegner könnten nicht durch Kampf bezwingbar sein
 - es gibt Crits bei allen Würfen
@@ -32,7 +32,7 @@ todo
 ## Erlaubte Rassen
 - Keine Rasse mit Fly Speed
 ## Erlaubte Items
-- Als Start Items nur Adventuring Gear
+- Als [[Quests/Start\|Start]] Items nur Adventuring Gear
 - Keine Schusswaffen
 
 # Kampf
@@ -51,6 +51,7 @@ todo
 - Neuer Charakter ist **neu**
 	- Andere Klasse
 	- Andere Rasse
+	- Anderer Background
 ### Heroic Turn
 - Direkt nach Charakter Tod
 - Sofort alle Spell Slots, Class Features und Uses von Magic Items zurück

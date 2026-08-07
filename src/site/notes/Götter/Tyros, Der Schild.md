@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/goetter/tyros-der-schild/","dg-note-properties":{}}
 ---
 
+# Tyros, Der Schild
 **Gesinnung:** Rechtschaffen Gut
 **Prinzipien:** Zivilisation, Ordnung, Gesetz
 **Göttliches Symbol:** Ein massiver, quadratischer Turmschild aus poliertem Stahl, der in der Mitte von einem aufrecht stehenden, geraden Schwert durchdrungen wird.

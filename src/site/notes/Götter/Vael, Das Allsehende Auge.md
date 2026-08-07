@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/goetter/vael-das-allsehende-auge/","dg-note-properties":{}}
 ---
 
+# Vael, Das Allsehende Auge
 **Gesinnung:** Neutral Böse
 **Prinzipien:** Magie, verborgenes Wissen, Geheimnisse
 **Göttliches Symbol:** Ein unblinzelndes, lilafarbenes Auge mit einer vertikalen Schlitzpupille, das oft von einem komplexen, silbernen Arkan-Stern oder einem Spinnennetz aus magischen Fäden umrahmt wird.

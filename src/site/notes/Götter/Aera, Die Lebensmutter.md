@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/goetter/aera-die-lebensmutter/","dg-note-properties":{}}
 ---
 
+# Aera, Die Lebensmutter
 **Gesinnung:** Neutral Gut
 **Prinzipien:** Schöpfung, Licht, Heilung
 **Göttliches Symbol:** Eine strahlende, goldene Sonne, in deren Zentrum eine sich öffnende, schneeweiße Blüte ruht, umgeben von wärmenden Lichtstrahlen.

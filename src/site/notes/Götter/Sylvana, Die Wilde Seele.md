@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/goetter/sylvana-die-wilde-seele/","dg-note-properties":{}}
 ---
 
+# Sylvana, Die Wilde Seele
 **Gesinnung:** Neutral (Wahre Neutralität)
 **Prinzipien:** Ungezähmte Natur, Flora und Fauna, Überleben
 **Göttliches Symbol:** Ein von Dornenranken umschlungener Eichenzweig oder die Silhouette eines majestätischen Hirsches mit einem Blätterdach als Geweih.

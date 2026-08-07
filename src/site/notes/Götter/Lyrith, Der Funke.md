@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/goetter/lyrith-der-funke/","dg-note-properties":{}}
 ---
 
+# Lyrith, Der Funke
 **Gesinnung:** Chaotisch Gut
 **Prinzipien:** Emotion, Kunst, Liebe, Leidenschaft
 **Göttliches Symbol:** Ein leuchtender, farbiger Pinselstrich, der sich in einen kleinen Funken oder eine brennende Flamme auflöst, oder eine goldene Lyra mit sieben bunt schimmernden Saiten.

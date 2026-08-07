@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/goetter/thalassa-die-tiefe/","dg-note-properties":{}}
 ---
 
+# Thalassa, Die Tiefe
 **Gesinnung:** Rechtschaffen Böse
 **Prinzipien:** Elemente, Meere, Naturgewalten
 **Göttliches Symbol:** Ein stilisierter Dreizack, der von einer stilisierten, stürmischen Welle umschlungen wird, oder ein dunkler Krakenarm, der einen Anker umschlingt.

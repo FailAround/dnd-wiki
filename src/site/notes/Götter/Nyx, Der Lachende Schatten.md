@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/goetter/nyx-der-lachende-schatten/","dg-note-properties":{}}
 ---
 
+# Nyx, Der Lachende Schatten
 **Gesinnung:** Chaotisch Neutral
 **Prinzipien:** Täuschung, Glück, das Verborgene
 **Göttliches Symbol:** Eine silberne Münze mit einer lächelnden Theatermaske, deren Augenloch im Schatten liegt (und die je nach Lichteinfall zu zwinkern scheint).

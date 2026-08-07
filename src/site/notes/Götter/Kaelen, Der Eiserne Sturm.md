@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/goetter/kaelen-der-eiserne-sturm/","dg-note-properties":{}}
 ---
 
+# Kaelen, Der Eiserne Sturm
 **Gesinnung:** Chaotisch Böse
 **Prinzipien:** Krieg, Stärke, Zerstörung
 **Göttliches Symbol:** Ein gespaltener Eisenschild, hinter dem sich zwei blutige Streitäxte kreuzen, oder ein rot glühender Amboss, in den ein Blitz einschlägt.

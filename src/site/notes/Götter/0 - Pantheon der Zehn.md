@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/goetter/0-pantheon-der-zehn/","dg-note-properties":{}}
 ---
 
+# Pantheon der Zehn
 In Moriel beten die Menschen nicht zu personifizierten Überwesen mit familiären Dramen, sondern zu zehn Göttern, die als absolute kosmische Prinzipien existieren. Sie sind die unumstößlichen Säulen der Realität.
 
 - **[[[Aera, Die Lebensmutter\|[Aera, Die Lebensmutter]]]** – Prinzip der Schöpfung, des Lichts und der Heilung.

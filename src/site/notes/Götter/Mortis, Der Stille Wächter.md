@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/goetter/mortis-der-stille-waechter/","dg-note-properties":{}}
 ---
 
+# Mortis, Der Stille Wächter
 **Gesinnung:** Rechtschaffen Neutral
 **Prinzipien:** Tod, Übergang, Unausweichliches Ende
 **Göttliches Symbol:** Eine von einer silbernen Hand gehaltene Sanduhr, in der das letzte Sandkorn fällt, oder ein stilisierter silberner Rabenkopf/Totenkopf auf dämmerblauem Grund.
