@@ -16,7 +16,7 @@ Wenn Kaelen auf dem Schlachtfeld erscheint, nimmt er die Gestalt eines hünenhaf
 
 Kaelen ist der blutige Schweiß der Schlacht, das panische Schreien der Besiegten und der reine, unerbittliche Rausch der Gewalt. Wo [[Götter/Tyros\|Tyros]] (Der Gott der Ordnung) den Krieg als taktisches Mittel zur Verteidigung und Gerechtigkeit ansieht, sieht Kaelen im Krieg den ultimativen Selbstzweck. Er ist der Eiserne Sturm, der keine Unterscheidung zwischen Krieger und Zivilist, zwischen Festung und Waisenhaus macht. Wenn Kaelen wütet, bleibt nur Asche zurück.
 
-Kaelen lehrt, dass Stärke das einzige wahre Recht im Multiversum ist. Schwäche ist in seinen Augen die größte Sünde. Wer nicht stark genug ist, sich zu verteidigen, hat das Recht auf Leben verwirkt. Seine Philosophie ist primitiv, extrem und erschreckend effektiv. Er verachtet Diplomatie als Waffe der Feiglinge und listige Pläne (wie die von [[Götter/Nyx\|Nyx]] oder [[Götter/Vael\|Vael]]) als Zeitverschwendung, wenn man stattdessen einfach den Schädel des Problems einschlagen kann.
+Kaelen lehrt, dass Stärke das einzige wahre Recht im Multiversum ist. Schwäche ist in seinen Augen die größte Sünde. Wer nicht stark genug ist, sich zu verteidigen, hat das Recht auf Leben verwirkt. Seine Philosophie ist primitiv, extrem und erschreckend effektiv. Er verachtet Diplomatie als Waffe der Feiglinge und listige Pläne (wie die von [[Götter/Nyx\|Nyx]] oder [[Götter/Vael, Das Allsehende Auge\|Vael, Das Allsehende Auge]]) als Zeitverschwendung, wenn man stattdessen einfach den Schädel des Problems einschlagen kann.
 
 ### Verehrung & Anhänger
 
